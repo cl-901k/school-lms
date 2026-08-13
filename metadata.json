@@ -1,0 +1,6 @@
+{
+  "name": "LMS",
+  "description": "Comprehensive School Learning Management System with offline capabilities for Headteacher, Teachers, Secretary, and Accounts Clerk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

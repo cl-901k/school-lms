@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="110" fill="#09090b"/>
+  <rect x="16" y="16" width="480" height="480" rx="94" fill="none" stroke="#16a34a" stroke-width="8" opacity="0.6"/>
+  <circle cx="256" cy="256" r="180" fill="#052e16" stroke="#22c55e" stroke-width="6"/>
+  <!-- Graduation Cap / School Crest Icon -->
+  <g transform="translate(136, 136) scale(0.47)" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="256 64 480 176 256 288 32 176 256 64" fill="#16a34a"/>
+    <path d="M112 216v136c0 40 64 72 144 72s144-32 144-72V216" />
+    <path d="M416 216v160" />
+    <circle cx="416" cy="388" r="16" fill="#ffffff"/>
+  </g>
+  <text x="256" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="44" font-weight="800" fill="#22c55e" text-anchor="middle" letter-spacing="4">LMS</text>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "name": "LMS",
+  "short_name": "LMS",
+  "description": "Learning Management System with offline capabilities for Headteacher, Teachers, Secretary, and Accounts Clerk.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#09090b",
+  "orientation": "any",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/pwa-icon.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
